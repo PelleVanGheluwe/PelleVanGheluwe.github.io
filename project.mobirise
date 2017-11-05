@@ -48,7 +48,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Homepage for Pelle Van Gheluwe",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -718,7 +718,7 @@
     },
     "portfolio.html": {
       "settings": {
-        "meta_descr": "Site Creator Description",
+        "meta_descr": "Pelle's art portfolio",
         "title": "Portfolio",
         "order": 2
       },
@@ -1251,9 +1251,9 @@
         }
       ]
     },
-    "page2.html": {
+    "blog.html": {
       "settings": {
-        "meta_descr": "Web Page Maker Description",
+        "meta_descr": "Pelle's blog page",
         "title": "Blog",
         "order": 1
       },
