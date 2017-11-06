@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page3.html",
+    "currentPage": "portfolio.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 43,
     "versionPublish": "4.4.0",
@@ -11,7 +11,7 @@
       "styling": {
         "primaryColor": "#f7ed4a",
         "secondaryColor": "#ffffff",
-        "successColor": "#f9f295",
+        "successColor": "#073b4c",
         "infoColor": "#82786E",
         "warningColor": "#787324",
         "dangerColor": "#aae009",
@@ -1184,7 +1184,7 @@
           "_params": {
             "text_all": "All",
             "gallery__filtersTextStyle": "display-4",
-            "gallery__filtersBtnStyle": "btn-primary-outline",
+            "gallery__filtersBtnStyle": "btn-success-outline",
             "gallery": [
               {
                 "tags": "Mixed media",
